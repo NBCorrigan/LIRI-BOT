@@ -1,0 +1,31 @@
+{
+  "name": "liri-bot",
+  "version": "1.0.0",
+  "description": "Language Iterepretaion and Recognition Interface",
+  "main": "keys.js",
+  "scripts": {
+    "test": "echo"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NBCorrigan/LIRI-BOT.git"
+  },
+  "keywords": [
+    "nodejs",
+    "liri"
+  ],
+  "author": "Nick Corrigan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NBCorrigan/LIRI-BOT/issues"
+  },
+  "homepage": "https://github.com/NBCorrigan/LIRI-BOT#readme",
+  "dependencies": {
+    "dotenv": "^6.1.0",
+    "fs": "0.0.1-security",
+    "moment": "^2.22.2",
+    "node-spotify-api": "^1.0.7",
+    "request": "^2.88.0",
+    "simple-node-logger": "^0.93.40"
+  }
+}
